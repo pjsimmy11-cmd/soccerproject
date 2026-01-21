@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "leicestercity.html",
+    "href": "leicestercity.html",
+    "title": "Leicester City Analysis",
+    "section": "",
+    "text": "Tactical Insight\n\n\n\nLeicester City had the lowest passing accuracy (70%) of any champion in history. They didn’t care about keeping the ball; they cared about moving it forward.\n\n\n\n\n\n\n\n\nKey Player: N’Golo Kanté\n\n\n\nKanté made 156 interceptions this season—more than any other player in Europe’s top 5 leagues. He was effectively a two-man midfield on his own.\n\n\n\n\n\n\n\n\nThis animation illustrates the “Trap and Spring” tactic that defined Leicester City’s title-winning season. By allowing the opponent (Red) to push their defensive line high up the pitch, Leicester baited them into leaving vast amounts of empty space behind their defenders. The “Trigger” occurs when Drinkwater bypasses the entire opposing midfield with a single pass into that open area—not to a player’s feet, but into space for Jamie Vardy to chase. Vardy’s superior speed allows him to win the footrace against the backpedaling defense, turning a defensive situation into a 1-on-1 goal in seconds, perfectly demonstrating how Leicester prioritized vertical efficiency over possession.\n\nVerticality in Action\nLeicester didn’t build slowly; they struck instantly. This goal vs Liverpool perfectly illustrates the “One Pass” philosophy.\n\n\n\n\n\n\n\nThis animation visualizes the “Macro” story of the season: consistency. While the tactical animation showed how they played, this chart proves why they won. You can see Leicester’s blue line rising at a near-perfect, relentless 45-degree angle, illustrating a steady accumulation of points without the “flat spots” (losses and draws) that plague their rivals. In contrast, the lines for Arsenal (Red) and Tottenham (White) are jagged, showing periods of promise followed by stalls and collapses. The graph effectively debunks the myth that Leicester’s win was a fluke; luck looks like a spike, but a straight diagonal line over 38 games represents superior, long-term consistency.\n\n\n\n\n\n\nThe 5000-1 Odds\n\n\n\nIf you bet £10 on Leicester at the start of the season, you would have won £50,000. It remains the biggest sporting upset in history."
+  },
+  {
+    "objectID": "keyplayers.html",
+    "href": "keyplayers.html",
+    "title": "The Holy Trinity",
+    "section": "",
+    "text": "The £10 Million Trio\nLeicester’s title charge was powered by three players who cost less combined than a typical benchwarmer for Man City. Here is how they statistically dominated the league.\n\nThe Attack (Vardy & Mahrez)\n\n\nRiyad Mahrez was the only player in the league to reach double figures in both goals and assists. Jamie Vardy was a pure conversion machine.\n\n\n\n\n\n\n\n\n\nThe Engine (N’Golo Kanté) People joked that “70% of the earth is covered by water, the rest is covered by N’Golo Kanté.” The data proves it wasn’t a joke."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Peter Simmons",
+    "section": "",
+    "text": "I am a student-athlete at New College of Florida, balancing the rigors of competitive soccer with an academic pursuit in Economics.\nMy passion lies at the intersection of sports and statistics. As an Economics major, I am fascinated by the concept of efficiency—how teams allocate resources (passes, shots, money) to achieve maximum output (goals, wins).\nThis project, “The Efficiency Engine,” is my attempt to apply econometric thinking to the beautiful game. By analyzing Premier League data, I aim to uncover which teams are truly “clinical” and which are simply lucky."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "Peter Simmons",
+    "section": "",
+    "text": "I am a student-athlete at New College of Florida, balancing the rigors of competitive soccer with an academic pursuit in Economics.\nMy passion lies at the intersection of sports and statistics. As an Economics major, I am fascinated by the concept of efficiency—how teams allocate resources (passes, shots, money) to achieve maximum output (goals, wins).\nThis project, “The Efficiency Engine,” is my attempt to apply econometric thinking to the beautiful game. By analyzing Premier League data, I aim to uncover which teams are truly “clinical” and which are simply lucky."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Peter Simmons",
+    "section": "Education",
+    "text": "Education\nNew College of Florida | Sarasota, FL B.A. in Economics | In Progress"
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "Peter Simmons",
+    "section": "Interests",
+    "text": "Interests\n\n⚽ Competitive Soccer\n📈 Data Analytics & Econometrics\n📊 Premier League Statistics"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data and the Beautiful Game",
+    "section": "",
+    "text": "Football is a game of moments, but data helps us understand the patterns behind them. This project is dedicated to decoding the Premier League through the lens of analytics. By combining raw match data with clean, insightful visualizations, I aim to answer the biggest questions of the season: Who is truly overperforming? Which defenses are lucky? And what does the data really say about the teams we love?\n\n\n\n\n\n\n\n\n\nFigure 1: The Efficiency Matrix. This graph analyzes the “business model” of winning. By treating shots as “Investment” (X-Axis) and goals as “Return” (Y-Axis), we see two distinct paths to the title. Most champions, like Manchester City (“The Machines”), win by overwhelming opponents with sheer volume—spending massive resources to guarantee goals. Leicester City (“The Snipers”) stands alone as an economic anomaly: they won the league with significantly lower investment, relying instead on elite precision to maximize every single opportunity. They didn’t outspend the market; they outsmarted it.\n\n\n\n\n\n\n\n\n\nMost top teams, like Man City and Barcelona, cluster in the top-right, using massive possession to suffocate opponents. But look at Leicester City alone in the bottom-left: they are the ultimate anomaly. Despite having the low possession and pass accuracy (shown in orange), their goal tally is massive. They didn’t waste time passing sideways; they bypassed the midfield entirely, proving that in 2016, speed killed possession.\n\n\n\n\n\n\nOn the right, Man City demonstrates the High Press, engaging opponents deep in their own half to suffocate attacks before they begin. In contrast, the center panel reveals the anomaly of Leicester City’s 2016 title run: a disciplined Low Block. Unlike the League Average, which shows a scattered and porous defensive shape, Leicester’s structure is incredibly compact and narrow. They invited pressure by sitting deep (indicated by the lower dashed engagement line) but controlled the dangerous central spaces with surgical precision, forcing opponents wide and neutralizing threats."
+  },
+  {
+    "objectID": "legacy.html",
+    "href": "legacy.html",
+    "title": "The Blueprint: How to Beat the Odds",
+    "section": "",
+    "text": "The Legacy of 2016\nTen years later, the “Leicester Miracle” is no longer just a fairy tale—it is a case study in efficiency. By analyzing the data across the season, we can identify the three pillars that made the impossible happen.\n\n\n1. Consistency &gt; Quality\nAs shown in the Miracle timeline, Leicester didn’t win by being the “best” team every week. They won by being the most consistent. While Arsenal and Spurs had higher peaks, they also had deeper valleys. Leicester’s 45-degree accumulation line proves that consistency beats volatility.\n\n\n2. Verticality &gt; Possession\nThe Tactical Analysis revealed that possession is a vanity metric. With only 42% average possession, Leicester proved that controlling space is more valuable than controlling the ball. The “Trap and Spring” mechanic remains the most efficient counter-attacking system in PL history.\n\n\n3. Recruitment &gt; Budget\nThe Player Analysis highlighted the “Holy Trinity.” Finding N’Golo Kanté (statistically a double-player) and Riyad Mahrez (a statistical unicorn) for pennies allowed them to compete with billion-pound squads. It was a victory for scouting over spending.\n\n\n\n\nThe Final Verdict\n\n\n\n\n\n\nData Science Perspective\n\n\n\nLeicester City 2015/16 represents the ultimate “Outlier.” In a normal distribution of football results, they are the data point that sits 5 standard deviations away from the mean. They broke the predictive models of every bookmaker in the world.\n\n\n\n\nWhat Happened Next?\nThe league adapted. The very next season, Antonio Conte’s Chelsea adopted a similar 3-at-the-back counter-attacking system and won the league. Leicester didn’t just win a trophy; they changed the tactical meta of the Premier League forever.\nReturn to Start"
+  },
+  {
+    "objectID": "manchesterunited.html",
+    "href": "manchesterunited.html",
+    "title": "This is my title",
+    "section": "",
+    "text": "Hello"
+  }
+]

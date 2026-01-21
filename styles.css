@@ -1,0 +1,18 @@
+/* css styles */
+/* Make the headers (H1, H2) Leicester Blue */
+h1, h2, h3 {
+  color: #3498db !important; /* A lighter blue to pop against the dark background */
+  font-weight: bold;
+}
+
+/* Make the plot captions lighter so they are readable */
+figure figcaption {
+  color: #cccccc;
+  font-style: italic;
+}
+
+/* Add a cool glow to your code blocks */
+pre {
+  border: 1px solid #0053a0;
+  background-color: #222222;
+}
