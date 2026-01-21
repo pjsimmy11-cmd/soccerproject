@@ -1,1 +1,1 @@
-Sitemap: https://pjsimmy11king.quarto.pub/data-and-the-beautiful-game/sitemap.xml
+Sitemap: https://pjsimmy11-cmd.github.io/soccerproject/sitemap.xml
